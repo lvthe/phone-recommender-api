@@ -1,0 +1,23 @@
+{
+  "seq": 2,
+  "users": [
+    {
+      "id": 1,
+      "email": "a@gmail.com",
+      "name": "User A",
+      "salt": "7d8c3167246a4f5a289c358f70875c75",
+      "passwordHash": "bba3262942bc76ea1b50a44c369512ef50f27f139aa879f3977bc75379d31000",
+      "onboarding": {
+        "priceRange": null,
+        "budgetMin": null,
+        "budgetMax": null,
+        "purposes": [],
+        "os": "ANY",
+        "preferredBrands": [],
+        "priorities": [],
+        "updatedAt": "2025-12-20T06:54:20.409Z"
+      },
+      "createdAt": "2025-12-20T06:50:53.338Z"
+    }
+  ]
+}
