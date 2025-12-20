@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "brand": "Apple",
+    "price": 23000000,
+    "ramGb": 8,
+    "storageGb": 256,
+    "batteryMah": 3349,
+    "cameraMp": 48,
+    "category": "camera"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 14",
+    "brand": "Apple",
+    "price": 19000000,
+    "ramGb": 6,
+    "storageGb": 128,
+    "batteryMah": 3279,
+    "cameraMp": 12,
+    "category": "basic"
+  },
+  {
+    "id": 3,
+    "name": "Galaxy S23",
+    "brand": "Samsung",
+    "price": 18000000,
+    "ramGb": 8,
+    "storageGb": 256,
+    "batteryMah": 3900,
+    "cameraMp": 50,
+    "category": "gaming"
+  },
+  {
+    "id": 4,
+    "name": "Galaxy A54",
+    "brand": "Samsung",
+    "price": 9000000,
+    "ramGb": 8,
+    "storageGb": 128,
+    "batteryMah": 5000,
+    "cameraMp": 50,
+    "category": "basic"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 13T",
+    "brand": "Xiaomi",
+    "price": 12000000,
+    "ramGb": 12,
+    "storageGb": 256,
+    "batteryMah": 5000,
+    "cameraMp": 50,
+    "category": "gaming"
+  },
+  {
+    "id": 6,
+    "name": "Xiaomi Redmi Note 12",
+    "brand": "Xiaomi",
+    "price": 5500000,
+    "ramGb": 6,
+    "storageGb": 128,
+    "batteryMah": 5000,
+    "cameraMp": 48,
+    "category": "basic"
+  },
+  {
+    "id": 7,
+    "name": "OPPO Reno10",
+    "brand": "OPPO",
+    "price": 10000000,
+    "ramGb": 8,
+    "storageGb": 256,
+    "batteryMah": 5000,
+    "cameraMp": 64,
+    "category": "camera"
+  },
+  {
+    "id": 8,
+    "name": "realme 11 Pro",
+    "brand": "realme",
+    "price": 8500000,
+    "ramGb": 8,
+    "storageGb": 256,
+    "batteryMah": 5000,
+    "cameraMp": 100,
+    "category": "camera"
+  },
+  {
+    "id": 9,
+    "name": "POCO F5",
+    "brand": "Xiaomi",
+    "price": 9500000,
+    "ramGb": 12,
+    "storageGb": 256,
+    "batteryMah": 5000,
+    "cameraMp": 64,
+    "category": "gaming"
+  },
+  {
+    "id": 10,
+    "name": "Vivo V29e",
+    "brand": "Vivo",
+    "price": 8200000,
+    "ramGb": 8,
+    "storageGb": 256,
+    "batteryMah": 4800,
+    "cameraMp": 64,
+    "category": "camera"
+  }
+]
