@@ -1,5 +1,5 @@
 {
-  "seq": 2,
+  "seq": 3,
   "users": [
     {
       "id": 1,
@@ -18,6 +18,15 @@
         "updatedAt": "2025-12-20T06:54:20.409Z"
       },
       "createdAt": "2025-12-20T06:50:53.338Z"
+    },
+    {
+      "id": 2,
+      "email": "b@gmail.com",
+      "name": "Trần Văn B",
+      "salt": "bf667f7c05dec73777aa1d7204cf87ea",
+      "passwordHash": "830dd894127d45238fa1144271beb3d68e0b13e99632e63b13d46493805918ab",
+      "onboarding": null,
+      "createdAt": "2025-12-24T16:44:54.231Z"
     }
   ]
 }
